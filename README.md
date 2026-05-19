@@ -84,6 +84,4 @@ Expansion to multi-university datasets
 Integration with real-time AI recommendation systems
 Deep learning-based content classification for IPE elements
 
-📬 Contact
 
-For academic collaboration or queries, please contact the research team.
